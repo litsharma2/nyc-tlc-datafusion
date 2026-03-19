@@ -1,1 +1,6 @@
-.DS_Store
+data/
+*.parquet
+target/
+output.txt
+.vscode/
+vs_buildtools.exe
